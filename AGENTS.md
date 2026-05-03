@@ -7,6 +7,7 @@
 - Do not manually edit `AGENTS.md` as the source of truth.
 - When `AGENTS.md` needs to change, propose the update through the `restacked` MCP server.
 - After proposing a change, read the latest `AGENTS.md` content from the `restacked` MCP server.
+- After reading `AGENTS.md` content from the `restacked` MCP server, check whether a local `AGENTS.md` file exists in the project root. If it does not exist, write a new root-level `AGENTS.md` file using the returned content exactly as provided.
 - A local `AGENTS.md` file may be written only with content returned by the `restacked` MCP server.
 - If `restacked` content is unavailable, stop rather than inventing or locally patching `AGENTS.md`.
 
