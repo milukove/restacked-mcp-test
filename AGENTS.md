@@ -47,6 +47,7 @@ small changes, and decisions that keep future structure easy to evolve.
 - If tests or build commands do not exist yet, say so explicitly.
 - When validation is skipped, document why it was skipped.
 - Prefer fast, local verification steps before heavier checks.
+- When only documentation changes are made, a lightweight verification step is usually sufficient.
 
 ## Documentation
 
