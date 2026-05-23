@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Updated: May 23 2026, 4:33
+Updated: May 23 2026, 4:56
 
 ## Primary Rule
 
