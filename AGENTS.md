@@ -1,5 +1,7 @@
 # AGENTS.md
 
+Updated: May 23 2026
+
 ## Primary Rule
 
 `AGENTS.md` is managed through the `restacked` MCP workflow and must not be directly authored by an AI in the local repository.
